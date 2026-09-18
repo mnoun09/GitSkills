@@ -1,0 +1,1 @@
+print("Your sweater is strange")
